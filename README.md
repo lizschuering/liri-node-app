@@ -36,6 +36,6 @@ The most challenging aspect of creating the application was pulling that data I 
 
 ## What's Next
 
-I'd like to reformat the Tweet created dates into something a little more human readable using [Moment](https://www.npmjs.com/package/moment) but I'll need to read up on the UTC date format first so I get the deprecation warning message every time that I run the `my-tweets` command.
+I'd like to reformat the Tweet created dates into something a little more human readable using [Moment](https://www.npmjs.com/package/moment) but I'll need to read up on the UTC date format first so I don't get the deprecation warning message every time that I run the `my-tweets` command.
 
 I'd also like to add in some other commands to access other APIs for the weather or getting the scores for your favorite sports teams.
